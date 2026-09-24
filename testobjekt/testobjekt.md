@@ -2,7 +2,7 @@
 
 | Testbbjekt | Vad måste vi verifiera  i objektet | Prioritet? |
 |------|------:|------|
-| Backend | affärslogiken ska fungera korrekt | HÖG |
+| Backend | affärslogiken ska fungera korrekt | HÖ´G |
 | Mobilappen | Samma kundflöde som på webben ska visas | HÖG |
 | order service | ordrar ska dels kunna skapas/ändras men även avrbyts. Rätt status ska visas | HÖG |
 | Webbplatsen | Produkter/ kundvagn/ rabatt/ köp/ inloggning/ leverans samt ordrar ska verifieras| HÖG |
