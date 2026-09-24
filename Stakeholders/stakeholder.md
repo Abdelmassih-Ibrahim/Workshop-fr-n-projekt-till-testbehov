@@ -1,13 +1,13 @@
 ### Stakeholder-analyse
 
-| Stakeholder[cite: 1] | Vad behöver testledaren från dem?[cite: 1] | Vad behöver de från testledaren?[cite: 1] |
+| Stakeholder | Vad behöver testledaren från dem?[cite: 1] | Vad behöver de från testledaren? |
 |---|---|---|
-| **Utvecklingsteam** | Kunskap för att svara på tekniska frågor[cite: 3]. | Information om teststatus[cite: 3]. |
-| **Product Owner** | Hjälp att prioritera[cite: 3] samt djup kunskap om verksamheten[cite: 3]. | Uppdaterad teststatus[cite: 3] och att involveras inför release[cite: 3]. |
-| **Projektledare** | Projektstyrning och resursallokering. | Övergripande teststatus[cite: 3] och att involveras inför release[cite: 3]. |
-| **Testare** | Utförande av det praktiska testarbetet. | Tydlig testledning, planering och daglig teststatus[cite: 3]. |
-| **Representanter från kundservice**[cite: 2] | Insikter från de som känner verksamheten[cite: 3] och slutanvändarnas behov. | Att informeras och involveras inför release[cite: 3]. |
-| **Externa leverantörer** | Att de ansvarar för externa system[cite: 3]. | Relevanta uppdateringar om teststatus[cite: 3] för systemintegrationer. |
+| **Utvecklingsteam** | Kunskap för att svara på tekniska frågor. | Information om teststatus. |
+| **Product Owner** | Hjälp att prioritera samt djup kunskap om verksamheten | Uppdaterad teststatus och att involveras inför release. |
+| **Projektledare** | Projektstyrning och resursallokering. | Övergripande teststatus och att involveras inför release. |
+| **Testare** | Utförande av det praktiska testarbetet. | Tydlig testledning, planering och daglig teststatus. |
+| **Representanter från kundservice** | Insikter från de som känner verksamheten och slutanvändarnas behov. | Att informeras och involveras inför release |
+| **Externa leverantörer** | Att de ansvarar för externa system. | Relevanta uppdateringar om teststatus för systemintegrationer. |
 
 ---
 
