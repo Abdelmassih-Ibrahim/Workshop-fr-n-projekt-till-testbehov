@@ -1,6 +1,6 @@
 ### Stakeholder-analyse
 
-| Stakeholder | Vad behöver testledaren från dem?[cite: 1] | Vad behöver de från testledaren? |
+| Stakeholder | Vad behöver testledaren från dem? | Vad behöver de från testledaren? |
 |---|---|---|
 | **Utvecklingsteam** | Kunskap för att svara på tekniska frågor. | Information om teststatus. |
 | **Product Owner** | Hjälp att prioritera samt djup kunskap om verksamheten | Uppdaterad teststatus och att involveras inför release. |
