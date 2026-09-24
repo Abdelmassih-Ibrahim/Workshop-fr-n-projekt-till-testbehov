@@ -18,4 +18,11 @@
 - Användare går in på Nordischop hemsidan
 - Kund blir bemött av frontend
 - Filterar och söker efter produkt
-- Lägger till
+- Kontrollerar saldo av produkt
+- Lägger till produkt i varukorg
+- Genomför beställning
+- Lager uppdateras i klient och databas
+- Redirect till betalningstjänst
+- Val av betalningsmetod
+- Betalning genomförs
+- Användare får bekräftelsemail
