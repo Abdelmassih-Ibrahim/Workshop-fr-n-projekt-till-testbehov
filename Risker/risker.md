@@ -1,5 +1,5 @@
 | Risk | Sannolikhet | Konsekvens | Risknivå | Möjlig teståtgärd |
-|------|------|------|------|------|------|
+|------|------|------|------|------|
 |Integrationsrisker| Hög | Hög | Hög | CI, SIT |
 | Lagersystem | Mellan | Hög | Hög | Enhetstest och Integrationstest | 
 | E-post/SMS | Mellan | Mellan | Mellan | Testbeställningar, E-postloggar |
