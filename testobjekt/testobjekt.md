@@ -20,7 +20,7 @@ Vi ansvarar för att verifiera NordicShops egna system:
 - Backend
 - Order Service
 
-Men vi behöver även testa integrationerna mot:
+Men vi behöver även testa [integrationerna](../Integrationer.md) mot:
 - Betalningsleverantör
 - Lagersystem
 - Leveranstjänst
