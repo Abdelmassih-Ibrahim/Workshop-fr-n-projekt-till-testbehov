@@ -1,6 +1,6 @@
 | Risk | Sannolikhet | Konsekvens | Risknivå | Möjlig teståtgärd |
 |------|------|------|------|------|
-|Integrationsrisker| Mellan | Hög | Hög | Kontinuerlig integration mot mockar  |
+|Integrationsrisker| Hög | Kritisk | Hög | Kontinuerlig integration mot mockar  |
 | Lagersystem | Mellan | Hög | Hög | Enhetstest och Integrationstest | 
 | E-post/SMS | Mellan | Mellan | Mellan | Testbeställningar, E-postloggar |
 | Mobilappen | Mellan | Mellan | Mellan | Manuell enhetstestning, visuell jämförelse | 
