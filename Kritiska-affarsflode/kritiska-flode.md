@@ -2,9 +2,8 @@
 
 ### 1. Kund via mobilapp genomför beställning
 - Användare öppnar NordicShop mobilapp
-- Blir bemött av användargränssnitt
 - Navigerar produkter
-- Produktsaldo hämtas från backend databas
+- Produktsaldo hämtas och produktinfo visas
 - Lägger till produkter i varukorg
 - Genomför beställning
 - Produktsaldo uppdateras i databas & appen
@@ -16,7 +15,6 @@
 
 ### 2. Webbkund genomför beställning
 - Användare går in på Nordischop hemsidan
-- Kund blir bemött av frontend
 - Filterar och söker efter produkt
 - Kontrollerar saldo av produkt
 - Lägger till produkt i varukorg
@@ -26,3 +24,13 @@
 - Val av betalningsmetod
 - Betalning genomförs
 - Användare får bekräftelsemail
+
+### 3. Integrationer
+- Mobilapp/Webbsida visar korrekt statisk information
+- Information på frontend hämtas korrekt från backend
+- Backend tar emot data och uppdaterar databasen
+- Backend skickar vidare beställningsinfo till lagersystem
+- Backend skapar leverans hos leveransansvarig
+- Användare omdirigeras till betalningstjänst
+- Betalningstjänst erbjuder betalningsmetoder
+- Vid godkänd transaktion skickas bekräftelsemail
