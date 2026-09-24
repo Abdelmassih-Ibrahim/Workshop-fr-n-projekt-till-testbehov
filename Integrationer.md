@@ -2,36 +2,26 @@
 
 ## Systemlandskap
 
-graph TD
-    %% Definition av noder
-    Kund([KUND])
+```mermaid
+flowchart TD
+    KUND[Kund]
+    WEBB[NordicShop Webb / Mobilapp]
+    BACKEND[Backend / Order Service]
+    PAYMENT[Payment Provider]
+    LAGER[Lagersystem]
+    DELIVERY[Delivery Provider]
+    BANK[Bank / Kort / Swish]
+    EPOST[E-post / SMS Service]
 
-    subgraph NordicShop [NordicShop Ekosystem]
-        Frontend[NordicShop <br> Webb / Mobilapp]
-        Backend[Backend / <br> Order Service]
-        Lager[Lagersystem]
-        Notis[E-post / SMS Service]
-    end
+    KUND --> WEBB
+    WEBB --> BACKEND
+    BACKEND --> PAYMENT
+    BACKEND --> LAGER
+    BACKEND --> DELIVERY
+    PAYMENT --> BANK
+    BACKEND --> EPOST
+```
 
-    subgraph Externa Tjänster [Externa Tjänster]
-        Payment[Payment Provider]
-        Delivery[Delivery Provider]
-        Bank[Bank / Kort / Swish]
-    end
-
-    %% Relationer och flöden
-    Kund --> Frontend
-    Frontend --> Backend
-
-    Backend --> Payment
-    Backend --> Lager
-    Backend --> Delivery
-
-    Payment --> Bank
-
-    %% Styling för att göra det tydligt i GitHub
-    style Kund fill:#f9f9f9,stroke:#333,stroke-width:2px
-    style Bank fill:#e1f5fe,stroke:#0288d1,stroke-width:1px
 
 ## Komponenter och ägarskap
 | System / Komponent | Ägare |
