@@ -11,3 +11,20 @@
 | E-post/SMS | Orderbekräftelse skickas med rätt information | MEDEL |
 | Behörigheter | Kundservice och administratörer endast kan göra det de har rätt till inget mer. | MEDEL |
 | Rabatt | Giltighet på rabatten och minsta ordervärde | LÅG |
+
+## Testansvar
+
+Vi ansvarar för att verifiera NordicShops egna system:
+- Webbplats
+- Mobilapp
+- Backend
+- Order Service
+
+Men vi behöver även testa integrationerna mot:
+- Betalningsleverantör
+- Lagersystem
+- Leveranstjänst
+- E-post/SMS-tjänst
+
+Vi testar att integrationerna fungerar som det ska, men ansvarar inte för hur externa systemen är byggda internt.
+
