@@ -34,6 +34,15 @@ Testledaren följer upp testresultat på en övergripande nivå.
 ## Omfattning
 De viktigaste funktionerna och affärsreglerna i backend och Order Service bör ha enhetstester.
 
+# Avgränsningar:
+
+( behöver fyllas )
+
+
+# Resultat / rapportering
+
+(Bheöver fyllas )
+
 
 # 2. Integrationstest
 
@@ -67,6 +76,14 @@ Testa bland annat:
 * system som är nere hanteras
 * dubbla meddelanden hanteras
 
+# Avgränsningar:
+
+( behöver fyllas )
+
+
+# Resultat / rapportering
+
+(Bheöver fyllas )
 
 # 3. Systemintegrationstest
 
@@ -94,6 +111,15 @@ Särskilt viktigt:
 * order
 * bekräftelser
 
+# Avgränsningar:
+
+( behöver fyllas )
+
+
+# Resultat / rapportering
+
+(Bheöver fyllas )
+
 # 4. Systemtest
 ## Syfte och mål
 Syftet är att verifiera NordicShops funktionalitet som ett sammanhängande system.
@@ -119,7 +145,14 @@ Exempel:
 ## Omfattning
 Systemtest ska framför allt fokusera på de kritiska användarflödena och verksamhetskraven.
 
+# Avgränsningar:
 
+( behöver fyllas )
+
+
+# Resultat / rapportering
+
+(Bheöver fyllas )
 
 # 5. Acceptanstest
 
@@ -148,4 +181,11 @@ Exempel:
 Acceptanstestet fokuserar på verksamhetens viktigaste behov och användarflöden.
 
 
+# Avgränsningar:
 
+( behöver fyllas )
+
+
+# Resultat / rapportering
+
+(Bheöver fyllas )

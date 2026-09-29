@@ -34,7 +34,7 @@ NordicShop behöver testmiljöer som gör det möjligt att testa både företage
 | Syfte             | Testa betalningsintegration                     |
 | Ägare             | Extern betalningsleverantör                     |
 | Betalningsmetoder | Visa, Mastercard och Swish                      |
-| Viktig risk       | Testmiljön kan ha andra beteenden än produktion |
+| Viktig risken     | Testmiljön kan ha andra beteenden än produktion |
 
 ### Vad ska testas?
 
