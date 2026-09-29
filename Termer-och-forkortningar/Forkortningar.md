@@ -22,9 +22,8 @@
 | Teststatus       | Sammanställning av hur testningen fortskrider och vilka resultat som uppnåtts.                                        |
 | Testledare       | Rollen som ansvarar för att planera, styra och följa upp testarbetet.                                                 |
 
---
---
---
+--- 
+
 ## Referenser
 
 Följande underlag har vi använt för teststrategin:
