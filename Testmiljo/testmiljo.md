@@ -50,9 +50,7 @@ NordicShop behöver testmiljöer som gör det möjligt att testa både företage
 
 
 # Testdata
-
 Testmiljön behöver testdata för bland annat:
-
 * kunder
 * produkter
 * lager
@@ -61,7 +59,7 @@ Testmiljön behöver testdata för bland annat:
 * betalningar
 * leveranser
 
-Testdata behöver även innehålla negativa scenarier.
+# Testdata behöver även innehålla negativa scenarier.
 Exempel:
 * produkt utan lager
 * ogiltig rabattkod
@@ -76,8 +74,6 @@ De viktigaste riskerna är:
 
 1. Tre utvecklingsteam delar samma miljö.
 2. Testdata kan påverkas av andra tester.
-3. (Fortsätter sen)
+3. Lagersystemet är för gammalt.
 4. 
-5. 
-
 
