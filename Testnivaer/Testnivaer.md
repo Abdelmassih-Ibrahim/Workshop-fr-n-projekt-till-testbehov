@@ -135,10 +135,9 @@ Syftet är att verifiera NordicShops funktionalitet som ett sammanhängande syst
 ## Vad behöver verifieras?
 Exempel:
 
-* skapa konto
-* logga in
-* söka produkter
-* filtrera produkter
+* skapa konto flödet
+* E2E kontoflöde
+* söka och hitta produkter
 * se lagerstatus
 * kundvagn
 * rabatt
