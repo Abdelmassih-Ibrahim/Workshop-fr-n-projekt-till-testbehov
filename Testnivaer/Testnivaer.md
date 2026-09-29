@@ -39,6 +39,9 @@ De viktigaste funktionerna och affärsreglerna i backend och Order Service bör 
 ( behöver fyllas )
 
 
+*Vad ingår inte på denna testnivå?*
+*Fundera på: Vad verifieras istället på en annan nivå?*
+
 ## Resultat / rapportering
 
 (Bheöver fyllas )
@@ -81,6 +84,9 @@ Testa bland annat:
 ( behöver fyllas )
 
 
+*Vad ingår inte på denna testnivå?*
+*Fundera på: Vad verifieras istället på en annan nivå?*
+
 ## Resultat / rapportering
 
 (Bheöver fyllas )
@@ -116,6 +122,9 @@ Särskilt viktigt:
 ( behöver fyllas )
 
 
+*Vad ingår inte på denna testnivå?*
+*Fundera på: Vad verifieras istället på en annan nivå?*
+
 ## Resultat / rapportering
 
 (Bheöver fyllas )
@@ -149,6 +158,8 @@ Systemtest ska framför allt fokusera på de kritiska användarflödena och verk
 
 ( behöver fyllas )
 
+*Vad ingår inte på denna testnivå?*
+*Fundera på: Vad verifieras istället på en annan nivå?*
 
 ## Resultat / rapportering
 
@@ -185,6 +196,9 @@ Acceptanstestet fokuserar på verksamhetens viktigaste behov och användarflöde
 
 ( behöver fyllas )
 
+
+*Vad ingår inte på denna testnivå?*
+*Fundera på: Vad verifieras istället på en annan nivå?*
 
 ## Resultat / rapportering
 
