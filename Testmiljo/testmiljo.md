@@ -74,7 +74,7 @@ De viktigaste riskerna är:
 
 1. Tre utvecklingsteam delar samma miljö.
 2. Testdata kan påverkas av andra tester.
-3. Lagersystemet är för gammalt.
+3. 
 4. ....
 5. ...
 
