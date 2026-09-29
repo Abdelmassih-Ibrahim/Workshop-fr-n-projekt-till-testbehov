@@ -2,8 +2,8 @@
 
 # Testnivaer för NordicShop:
 
-NordicShop använder flera testnivåer eftersom systemet består av flera komponenter och integrationer.
-och därför är De valda testnivåerna är:
+NordicShop består av flera komponenter och integrationer.
+Därav prioriteras följande testnivåerna:
 
 1. Komponent-/enhetstest
 2. Integrationstest
@@ -14,11 +14,11 @@ och därför är De valda testnivåerna är:
 # 1. Enhetstest
 
 ## Syfte och mål
-Syftet är att verifiera mindre delar av systemet individuellt.
-Testnivån ska framför allt hitta all fel tidigt innan funktionaliteten integreras med andra system.
+Syftet är att verifiera minsta del av systemet.
+Testnivån ska främst verifiera affärslogik och upptäcka fel före integration med andra delar av system.
 
 ## Vad måste verifieras?
-Till exempel: 
+Till exempel:
 
 * affärslogik
 * orderlogik
@@ -35,9 +35,7 @@ Testledaren följer upp testresultat på en övergripande nivå.
 De viktigaste funktionerna och affärsreglerna i backend och Order Service bör ha enhetstester.
 
 ## Avgränsningar:
-
-( behöver fyllas )
-
+All ny kod som skrivs överses ej av testare på grund av tidsbrist. Utvecklare ansvarar för det.
 
 *Vad ingår inte på denna testnivå?*
 *Fundera på: Vad verifieras istället på en annan nivå?*
