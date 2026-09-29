@@ -34,12 +34,12 @@ Testledaren följer upp testresultat på en övergripande nivå.
 ## Omfattning
 De viktigaste funktionerna och affärsreglerna i backend och Order Service bör ha enhetstester.
 
-# Avgränsningar:
+## Avgränsningar:
 
 ( behöver fyllas )
 
 
-# Resultat / rapportering
+## Resultat / rapportering
 
 (Bheöver fyllas )
 
@@ -76,12 +76,12 @@ Testa bland annat:
 * system som är nere hanteras
 * dubbla meddelanden hanteras
 
-# Avgränsningar:
+## Avgränsningar:
 
 ( behöver fyllas )
 
 
-# Resultat / rapportering
+## Resultat / rapportering
 
 (Bheöver fyllas )
 
@@ -111,12 +111,12 @@ Särskilt viktigt:
 * order
 * bekräftelser
 
-# Avgränsningar:
+## Avgränsningar:
 
 ( behöver fyllas )
 
 
-# Resultat / rapportering
+## Resultat / rapportering
 
 (Bheöver fyllas )
 
@@ -145,12 +145,12 @@ Exempel:
 ## Omfattning
 Systemtest ska framför allt fokusera på de kritiska användarflödena och verksamhetskraven.
 
-# Avgränsningar:
+## Avgränsningar:
 
 ( behöver fyllas )
 
 
-# Resultat / rapportering
+## Resultat / rapportering
 
 (Bheöver fyllas )
 
@@ -181,11 +181,11 @@ Exempel:
 Acceptanstestet fokuserar på verksamhetens viktigaste behov och användarflöden.
 
 
-# Avgränsningar:
+## Avgränsningar:
 
 ( behöver fyllas )
 
 
-# Resultat / rapportering
+## Resultat / rapportering
 
 (Bheöver fyllas )
