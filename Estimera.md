@@ -103,16 +103,8 @@ Ange estimatet i timmar.
 
 ## Uppgift 3 – Beskriv hur ni estimerade
 
-För minst fem funktioner ska vi beskriva vilken metod ni använde.
-Exempel:
-## Kortbetalning
-- Vi använde Expert Estimation eftersom en gruppmedlem har erfarenhet av
-- betalningsintegrationer.
-## Login
-- Vi använde Historical Data eftersom vi jämförde med tidigare liknande
-funktionalitet.
-## Lagerintegration
-Vi använde Three-Point Estimation eftersom området har stor osäkerhet. 
+Vi använde oss utav planning poker för att estimera storlek på tickets.
+Därefter sorterade vi dom och estimerade tiden via Three-Point.
 
 | Funktion | Estimeringsmetod | Motivering |
 |---|---|---|
