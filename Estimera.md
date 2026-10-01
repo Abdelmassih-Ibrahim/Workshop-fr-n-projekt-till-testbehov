@@ -85,7 +85,7 @@ Ange estimatet i timmar.
 | Produktfilter | | | | | | | |
 | Produktinformation | | | | | | | |
 | Kundvagn | | | | | | | |
-| Rabattkod | | | | | | | |
+| Rabattkod | 1 | 2 | 2 | 1 | 1 | 3 | 10 |
 | Checkout | | | | | | | |
 | Kortbetalning | | | | | | | |
 | Swishbetalning | 2 | 2 | 1 | 3 | 2 | 1 | 11 |
