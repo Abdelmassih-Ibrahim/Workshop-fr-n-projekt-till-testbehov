@@ -28,13 +28,28 @@ Vi behöver göra en avgränsning.
 
 # Uppgift 8 – Prioritera om
 
-| Funktion | Risk | MUST/SHOULD/COULD | Ny testomfattning | Motivering |
-|---|---|---|---|---|
-| Logg in|Should | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+Nr | Funktion | Prioritet |
+|---|---|---|
+|1 |Registrera konto |SHOULD|
+|2 |Login |SHOULD|
+|3 |Lås konto efter tre felaktiga loginförsök | MUST|
+|4 |Återställ lösenord |SHOULD|
+|5 |Produktsökning |COULD|
+|6 |Produktfilter |COULD|
+|7 |Produktinformation |COULD|
+|8 |Kundvagn |SHOULD|
+|9 |Rabattkod |COULD|
+|10| Checkout |MUST|
+|11 |Kortbetalning |MUST|
+|12 |Swishbetalning |MUST|
+|13 |Orderskapande |MUST|
+|14 |Lageruppdatering | MUST|
+|15 |Leveransalternativ |SHOULD|
+|16 |Orderbekräftelse via e-post | COULD |
+|17 |Orderhistorik COULD |
+|18 |Avbeställning SHOULD |
+|19 |Återbetalning MUST |
+|20 |Behörigheter för kundservice och admin | MUST |
 
 **MUST:**  
 
