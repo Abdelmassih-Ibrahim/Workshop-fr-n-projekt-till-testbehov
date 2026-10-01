@@ -41,26 +41,26 @@ varje funktion som:
 
 | Nr | Funktion | Risk | Motivering |
 |---:|---|---|---|
-| 1 | Registrera konto |GIGANTISK risk | |
-| 2 | Login |Hög risk | |
-| 3 | Lås konto efter tre felaktiga loginförsök |Hög risk | |
-| 4 | Återställ lösenord |Medel risk | |
-| 5 | Produktsökning |Låg risk  | |
-| 6 | Produktfilter |Låg risk  | |
-| 7 | Produktinformation | Medel risk  | |
-| 8 | Kundvagn |Medel risk | |
-| 9 | Rabattkod |Låg risk | |
-| 10 | Checkout | Hög risk | |
-| 11 | Kortbetalning |Hög risk | |
-| 12 | Swishbetalning |Hög risk | |
-| 13 | Orderskapande |Hög risk | |
-| 14 | Lageruppdatering |Hög risk | |
-| 15 | Leveransalternativ | Medel risk | |
-| 16 | Orderbekräftelse via e-post |Låg risk  | |
-| 17 | Orderhistorik |Låg risk  | |
-| 18 | Avbeställning | Medel risk| |
-| 19 | Återbetalning | Hög risk| |
-| 20 | Behörigheter för kundservice och admin | Hög risk| |
+| 1 | Registrera konto | Medel risk | Beror på ifall konto krävs för att utföra köp. |
+| 2 | Login | Medel risk | Beror på ifall konto krävs för att utföra köp. |
+| 3 | Lås konto efter tre felaktiga loginförsök | Hög risk | För att obehöriga inte ska kunna komma åt kundens information. |
+| 4 | Återställ lösenord | Medel risk | För att kunden ska kunna komma åt sitt konto, dock brukar man inte byta lösenord för ofta. |
+| 5 | Produktsökning | Låg risk | För man kan hitta produkten på andra sätt. |
+| 6 | Produktfilter | Låg risk | För att man kan hitta produkten manuellt. |
+| 7 | Produktinformation | Låg risk | Kunden kan fortfarande köpa produkten även om viss information skulle saknas. |
+| 8 | Kundvagn | Medel risk | Viktig för att kunden ska kunna se och ändra sina val innan köp. |
+| 9 | Rabattkod | Låg risk | Påverkar främst rabatten på köpet och kunden kan fortfarande genomföra köpet utan rabattkod. |
+| 10 | Checkout | Hög risk | Ett viktigt steg i köpprocessen där kunduppgifter, leverans och betalning hanteras. |
+| 11 | Kortbetalning | Hög risk | Hanterar betalningar och fel kan leda till att kunden inte kan genomföra sitt köp. |
+| 12 | Swishbetalning | Hög risk | Är kopplad till betalning och en extern tjänst, vilket gör funktionen extra känslig. |
+| 13 | Orderskapande | Hög risk | Om ordern inte skapas korrekt kan kunden förlora sitt köp eller ordern bli felaktig. |
+| 14 | Lageruppdatering | Hög risk | Felaktigt lager kan leda till att kunder beställer produkter som inte finns i lager. |
+| 15 | Leveransalternativ | Medel risk | Viktigt för att kunden ska kunna välja hur beställningen ska levereras. |
+| 16 | Orderbekräftelse via e-post | Låg risk | Kunden kan fortfarande få sin order även om bekräftelsemejlet inte skickas. |
+| 17 | Orderhistorik | Låg risk | Viktig för kunden men påverkar inte själva köpet. |
+| 18 | Avbeställning | Medel risk | Påverkar ordern och kan även påverka lager och betalning. |
+| 19 | Återbetalning | Hög risk | Hanterar pengar och fel kan leda till att kunden inte får tillbaka rätt belopp. |
+| 20 | Behörigheter för kundservice och admin | Hög risk | Fel behörigheter kan göra att obehöriga får tillgång till känslig information eller funktioner. |
 
 ---
 
