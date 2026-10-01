@@ -4,31 +4,33 @@
 
 **Beräkning:**  
 
-**Svar:**  
+vi hade 6 dagar tidigare
 
 ## 2. Hur mycket kapacitet har ni nu?
 
 **Beräkning:**  
 
-**Svar:**  
+8 dagar blir vår nya kapacitet. 
 
 ## 3. Hur många timmar saknas för att genomföra ursprunglig plan?
 
 **Beräkning:**  
 
-**Svar:**  
+2 dagars arbete. 
+
 
 ## 4. Hur påverkas tidsplanen?
 
 **Svar:**  
 
+Vi behöver göra en avgränsning.
 ---
 
 # Uppgift 8 – Prioritera om
 
 | Funktion | Risk | MUST/SHOULD/COULD | Ny testomfattning | Motivering |
 |---|---|---|---|---|
-| | | | | |
+| Logg in|Should | | | |
 | | | | | |
 | | | | | |
 | | | | | |
