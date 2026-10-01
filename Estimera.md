@@ -97,7 +97,7 @@ Ange estimatet i timmar.
 | Avbeställning | 2 | 2 | 1 | 3 | 2 | 1 | 11 |
 | Återbetalning | 2 | 2 | 2 | 3 | 2 | 1 | 12 |
 | Behörigheter för kundservice och admin | 1 | 1 | 2 | 1 | 1 | 1 | 7 |
-| **TOTALT** | | | | | | | |
+| **TOTALT** | 21 | 26,5 | 23 | 33,5 | 22,5 | 18,5 | 145 |
 
 
 ---
