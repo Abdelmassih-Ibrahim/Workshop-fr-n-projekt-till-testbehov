@@ -79,7 +79,7 @@ Ange estimatet i timmar.
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Registrera konto | 0,5 |1 |1 |2 |0,5 |0,5 |5,5 |
 | Login | 0,5 |1 |1 |2 |0,5 |0,5 |5,5 |
-| Lås konto efter tre felaktiga loginförsök | 0,5 | 0,5 | 0,5  | | | |
+| Lås konto efter tre felaktiga loginförsök | 0,5 | 0,5 | 0,5  | 0,5 | 0,5 | 1 | 3,5 |
 | Återställ lösenord | | | | | | | |
 | Produktsökning | | | | | | | |
 | Produktfilter | | | | | | | |
