@@ -73,16 +73,16 @@ Vi måste nu bestämma om ni reducerar:
 
 | Område | Vad reducerar vi? |
 |---|---|
-| Analys | |
-| Testdesign | |
-| Testdata | |
-| Testgenomförande | |
-| Regression | |
-| Felomtest | |
+| Analys | Ej affärskritiskt |
+| Testdesign |Ej affärskritiskt |
+| Testdata |Ej affärskritiskt |
+| Testgenomförande | Ej affärskritiskt|
+| Regression | Ej affärskritiskt|
+| Felomtest | Ej affärskritiskt|
 
 ### Sammanfattning
 
----
+
 
 # Uppgift 10 – Presentera för projektledaren
 
