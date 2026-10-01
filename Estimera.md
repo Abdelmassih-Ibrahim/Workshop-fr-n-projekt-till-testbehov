@@ -134,18 +134,6 @@ Därefter sorterade vi dom och estimerade tiden via Three-Point.
 
 | Osäkerhet | Påverkan | Behövs buffert? | Kommentar |
 |---|---|---|---|
-| Externa integrationer | | | |
-| Gemensam testmiljö | | | |
-| Gammalt lagersystem | | | |
-| Testdata | | | |
-| Många utvecklingsteam | | | |
-| Förväntade defekter | | | |
-| Övrigt | | | |
-## Uppgift 5 – Buffert
-
-
-| Osäkerhet | Påverkan | Behövs buffert? | Kommentar |
-|---|---|---|---|
 | Externa integrationer |Hög |Ja |Idk |
 | Gemensam testmiljö |Hög |Ja |Hålla varandra uppdaterade, bra spårbarhet |
 | Gammalt lagersystem |Hög |Idk |Idk |
