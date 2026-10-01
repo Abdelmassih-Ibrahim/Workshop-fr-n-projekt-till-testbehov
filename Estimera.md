@@ -81,7 +81,7 @@ Ange estimatet i timmar.
 | Login | 0,5 |1 |1 |2 |0,5 |0,5 |5,5 |
 | Lås konto efter tre felaktiga loginförsök | 0,5 | 0,5 | 0,5  | 0,5 | 0,5 | 1 | 3,5 |
 | Återställ lösenord | 0,5 | 1,5 | 1 | 1 | 0,5 | 1 | 5,5 |
-| Produktsökning | | | | | | | |
+| Produktsökning | 0,5 | 1 | 1 | 1 | 1 | 1 | 5,5 |
 | Produktfilter | | | | | | | |
 | Produktinformation | | | | | | | |
 | Kundvagn | | | | | | | |
