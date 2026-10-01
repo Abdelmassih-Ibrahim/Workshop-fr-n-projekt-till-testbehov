@@ -94,13 +94,13 @@ Projektledaren säger:
 
 | Område | Beskrivning |
 |---|---|
-| Vad har förändrats? | |
-| Hur påverkas kapaciteten? | |
-| Vad kan inte längre genomföras enligt ursprunglig plan? | |
-| Vad prioriterar vi? | |
-| Vad reducerar vi? | |
-| Vilka risker skapar det? | |
-| Vilka alternativ finns? | |
-| Rekommendation | |
+| Vad har förändrats? | En mindre testare, riskanalys och avgränsning |
+| Hur påverkas kapaciteten? | -25% -> från 6 dagar till 8 dagar |
+| Vad kan inte längre genomföras enligt ursprunglig plan? | Allt låg prio, "SHOULD" |
+| Vad prioriterar vi? | Allt affärskritiskt och beroenden. |
+| Vad reducerar vi? | Kosmetiskt och kvalitativa aspekter |
+| Vilka risker skapar det? | Bristfällig kvalitet, system kan genomföra uppgifter men ej bra |
+| Vilka alternativ finns? | Anställ konstult |
+| Rekommendation | Anställ konsult |
 
 ### Slutsats
