@@ -78,7 +78,7 @@ Ange estimatet i timmar.
 | Funktion | Analys | Testdesign | Testdata | Genomförande | Regression | Felomtest | Totalt |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Registrera konto | 0,5 |1 |1 |2 |0,5 |0,5 |5,5 |
-| Login |0,5 | 1|2 |0,5 |0,5 |1 |2 |
+| Login | 0,5 |1 |1 |2 |0,5 |0,5 |5,5 |
 | Lås konto efter tre felaktiga loginförsök | | | | | | | |
 | Återställ lösenord | | | | | | | |
 | Produktsökning | | | | | | | |
