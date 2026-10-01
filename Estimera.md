@@ -121,10 +121,9 @@ Därefter sorterade vi dom och estimerade tiden via Three-Point.
 
 | Funktion | Optimistic (O) | Most Likely (M) | Pessimistic (P) | Viktat estimat |
 |---|---:|---:|---:|---:|
-| | | | | |
-| | | | | |
-| | | | | |
-
+|Checkout |2 |2 |2 |2 |
+|Kortbetalning |2 |2 |2 |2 |
+|Orderskapande |2 |3 |2 | 2.6|
 **Formel:**
 
 `(O + 4M + P) / 6`
