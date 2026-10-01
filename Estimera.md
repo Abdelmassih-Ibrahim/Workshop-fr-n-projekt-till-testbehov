@@ -147,10 +147,10 @@ Därefter sorterade vi dom och estimerade tiden via Three-Point.
 
 | Fråga | Svar |
 |---|---|
-| Behöver vi en buffert? | |
-| Hur stor? | |
-| Varför? | |
-| Vilka osäkerheter ska bufferten hantera? | |
+| Behöver vi en buffert? | Ja |
+| Hur stor? | På cirka 20% av estimerad tid|
+| Varför? | På grund av låg erfarenhet behövs buffert för att hantera felmarginal |
+| Vilka osäkerheter ska bufferten hantera? | För låga estimeringar på tid och bugfixar |
 
 ---
 
