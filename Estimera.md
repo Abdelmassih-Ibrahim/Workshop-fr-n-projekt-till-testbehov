@@ -109,12 +109,11 @@ Därefter sorterade vi dom och estimerade tiden via Three-Point.
 
 | Funktion | Estimeringsmetod | Motivering |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-
+| Login | 3-point | Denna kändes tillräckligt simpel för att kunna estimera |
+| Rabattkod| | 3-point | Rabattkod var vi överens om så vi använde 3-point för att få ett genomsnitt |
+| Avbeställning | Planning-poker | Denna var vi lite osams om så alla argumenterade och tills vi var överens |
+| Återbetalning | Planning-poker | Då återbetalning var svår att estimera hade vi en gemensam diskussion |
+| Produktsökning | 3-point (4M) | Vi hade liknande estimeringar så vi gjorde 3-point med större vikt mot Most-Likely |
 ---
 
 ## Uppgift 4 – Three-Point Estimation
