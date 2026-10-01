@@ -82,12 +82,12 @@ Ange estimatet i timmar.
 | Lås konto efter tre felaktiga loginförsök | 0,5 | 0,5 | 0,5  | 0,5 | 0,5 | 1 | 3,5 |
 | Återställ lösenord | 0,5 | 1,5 | 1 | 1 | 0,5 | 1 | 5,5 |
 | Produktsökning | 0,5 | 1 | 1 | 1 | 1 | 1 | 5,5 |
-| Produktfilter | | | | | | | |
-| Produktinformation | | | | | | | |
-| Kundvagn | | | | | | | |
-| Rabattkod | 1 | 2 | 2 | 1 | 1 | 3 | 10 |
-| Checkout | | | | | | | |
-| Kortbetalning | | | | | | | |
+| Produktfilter | 0,5 | 1 | 1 | 0,5 | 1 | 1 | 5 |
+| Produktinformation | 0,5 | 0,5 | 0,5 | 0,5 | 0,5 | 0,5 | 3 |
+| Kundvagn | 1 | 2 | 1,5 | 1 | 1 | 1 | 7,5 |
+| Rabattkod | 0,5 | 0,5 | 0,5 | 1 | 1 | 1 | 4,5 |
+| Checkout | 1 | 1,5 | 1 | 1 | 1 | 1 | 6,5 |
+| Kortbetalning | 1 | 2 | 2 | 1 | 1 | 1 | 8 |
 | Swishbetalning | 2 | 2 | 1 | 3 | 2 | 1 | 11 |
 | Orderskapande | 2 | 2 | 1 | 3 | 2 | 1 | 11 |
 | Lageruppdatering | 2 | 2 | 2 | 3 | 2 | 1 | 12 |
@@ -98,6 +98,7 @@ Ange estimatet i timmar.
 | Återbetalning | 2 | 2 | 2 | 3 | 2 | 1 | 12 |
 | Behörigheter för kundservice och admin | 1 | 1 | 2 | 1 | 1 | 1 | 7 |
 | **TOTALT** | | | | | | | |
+
 
 ---
 
