@@ -46,9 +46,9 @@ Nr | Funktion | Prioritet |
 |14 |Lageruppdatering | MUST|
 |15 |Leveransalternativ |SHOULD|
 |16 |Orderbekräftelse via e-post | COULD |
-|17 |Orderhistorik COULD |
-|18 |Avbeställning SHOULD |
-|19 |Återbetalning MUST |
+|17 |Orderhistorik |COULD |
+|18 |Avbeställning |SHOULD |
+|19 |Återbetalning |MUST |
 |20 |Behörigheter för kundservice och admin | MUST |
 
 **MUST:**  
