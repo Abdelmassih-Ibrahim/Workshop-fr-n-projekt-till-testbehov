@@ -141,7 +141,18 @@ Därefter sorterade vi dom och estimerade tiden via Three-Point.
 | Många utvecklingsteam | | | |
 | Förväntade defekter | | | |
 | Övrigt | | | |
+## Uppgift 5 – Buffert
 
+
+| Osäkerhet | Påverkan | Behövs buffert? | Kommentar |
+|---|---|---|---|
+| Externa integrationer |Hög |Ja |Idk |
+| Gemensam testmiljö |Hög |Ja |Hålla varandra uppdaterade, bra spårbarhet |
+| Gammalt lagersystem |Hög |Idk |Idk |
+| Testdata |Hög |Idk |Idk |
+| Många utvecklingsteam |Hög |idk |Overkill, bottleneck |
+| Förväntade defekter |Låg | |Låg eftersom de var förväntde |
+| Övrigt |idk |idk |idk |
 ### Buffertbeslut
 
 | Fråga | Svar |
