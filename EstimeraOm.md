@@ -73,12 +73,12 @@ Vi måste nu bestämma om ni reducerar:
 
 | Område | Vad reducerar vi? |
 |---|---|
-| Analys | Ej affärskritiskt |
-| Testdesign |Ej affärskritiskt |
-| Testdata |Ej affärskritiskt |
-| Testgenomförande | Ej affärskritiskt|
-| Regression | Ej affärskritiskt|
-| Felomtest | Ej affärskritiskt|
+| Analys | Samma mängd, annars riskerar vi missa större del |
+| Testdesign | Samma mängd |
+| Testdata | Lägre mängd testdata |
+| Testgenomförande | Ej affärskritiskt |
+| Regression | Stor reduktion |
+| Felomtest | Behåller samma mängd |
 
 ### Sammanfattning
 
@@ -86,21 +86,17 @@ Vi måste nu bestämma om ni reducerar:
 
 # Uppgift 10 – Presentera för projektledaren
 
-VU ska nu agera testledare.
 Projektledaren säger:
 **Releasedatumet ligger fast. Kan ni fortfarande hinna?**
 
-- 2 min svar
-
 | Område | Beskrivning |
 |---|---|
-| Vad har förändrats? | En mindre testare, riskanalys och avgränsning |
+| Vad har förändrats? | En mindre testare innebär förändrad riskanalys och avgränsning |
 | Hur påverkas kapaciteten? | -25% -> från 6 dagar till 8 dagar |
-| Vad kan inte längre genomföras enligt ursprunglig plan? | Allt låg prio, "SHOULD" |
+| Vad kan inte längre genomföras enligt ursprunglig plan? | Några låg prio / SHOULD funktioner |
 | Vad prioriterar vi? | Allt affärskritiskt och beroenden. |
-| Vad reducerar vi? | Kosmetiskt och kvalitativa aspekter |
-| Vilka risker skapar det? | Bristfällig kvalitet, system kan genomföra uppgifter men ej bra |
-| Vilka alternativ finns? | Anställ konstult |
-| Rekommendation | Anställ konsult |
+| Vad reducerar vi? | Kosmetiskt och låg-prioriterade aspekter i drift/användbarhet |
+| Vilka risker skapar det? | Hög funktionalitet men bristfällig kvalitet inom prestanda/GUI |
+| Vilka alternativ finns? | Anställ konstult / kontrollera Acceptanskriterier |
+| Rekommendation | Conditional-Go ifall MUST + COULD funktioner är godkända |
 
-### Slutsats
