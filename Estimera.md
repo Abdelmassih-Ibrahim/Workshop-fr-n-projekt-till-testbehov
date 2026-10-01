@@ -88,15 +88,15 @@ Ange estimatet i timmar.
 | Rabattkod | | | | | | | |
 | Checkout | | | | | | | |
 | Kortbetalning | | | | | | | |
-| Swishbetalning | | | | | | | |
-| Orderskapande | | | | | | | |
-| Lageruppdatering | | | | | | | |
-| Leveransalternativ | | | | | | | |
-| Orderbekräftelse via e-post | | | | | | | |
-| Orderhistorik | | | | | | | |
-| Avbeställning | | | | | | | |
-| Återbetalning | | | | | | | |
-| Behörigheter för kundservice och admin | | | | | | | |
+| Swishbetalning | 2 | 2 | 1 | 3 | 2 | 1 | 11 |
+| Orderskapande | 2 | 2 | 1 | 3 | 2 | 1 | 11 |
+| Lageruppdatering | 2 | 2 | 2 | 3 | 2 | 1 | 12 |
+| Leveransalternativ | 1 | 1 | 1 | 2 | 1 | 1 | 7 |
+| Orderbekräftelse via e-post | 1 | 1 | 1 | 2 | 1 | 1 | 7 |
+| Orderhistorik | 1 | 1 | 1 | 2 | 1 | 1 | 7 |
+| Avbeställning | 2 | 2 | 1 | 3 | 2 | 1 | 11 |
+| Återbetalning | 2 | 2 | 2 | 3 | 2 | 1 | 12 |
+| Behörigheter för kundservice och admin | 1 | 1 | 2 | 1 | 1 | 1 | 7 |
 | **TOTALT** | | | | | | | |
 
 ---
