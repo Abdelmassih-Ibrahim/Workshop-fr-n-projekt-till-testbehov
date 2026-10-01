@@ -157,7 +157,7 @@ Därefter sorterade vi dom och estimerade tiden via Three-Point.
 
 | Fråga | Beräkning | Svar |
 |---|---|---|
-| A. Hur många effektiva testtimmar har teamet per vecka? | 30 × 4 | 120 timmar/vecka |
-| B. Hur många veckor krävs för testarbetet? | 85 ÷ 120 | Ca 0,71 veckor |
+| A. Hur många effektiva testtimmar har teamet per vecka? | 30 × 4 | 120 timmar/vecka ungefär |
+| B. Hur många veckor krävs för testarbetet? | 85/ 120 | typ 0,71 veckor |
 | C. Är planen realistisk? |  | Ja, om alla testare är tillgängliga och testmiljön fungerar som planerat. |
-| D. Vilka antaganden bygger planen på? |  | Alla 4 testare kan arbeta 30 effektiva timmar per vecka, testmiljön är tillgänglig, testdata finns och utvecklingsteamen levererar funktionerna i tid. |
+| D. Vilka antaganden bygger planen på? |  | Alla 4 testare har 30 timmar per vecka om dom inte sjukar sig, testmiljön är tillgänglig, testdata finns och utvecklingsteamen levererar funktionerna i tid. |
