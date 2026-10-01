@@ -41,9 +41,9 @@ varje funktion som:
 
 | Nr | Funktion | Risk | Motivering |
 |---:|---|---|---|
-| 1 | Registrera konto | | |
-| 2 | Login | | |
-| 3 | Lås konto efter tre felaktiga loginförsök | | |
+| 1 | Registrera konto |GIGANTISK risk | |
+| 2 | Login |Hög risk | |
+| 3 | Lås konto efter tre felaktiga loginförsök |Hög risk | |
 | 4 | Återställ lösenord | | |
 | 5 | Produktsökning | | |
 | 6 | Produktfilter | | |
