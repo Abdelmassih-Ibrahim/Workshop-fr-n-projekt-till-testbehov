@@ -6,14 +6,9 @@
 **Utveckling:** 3 utvecklingsteam
 **Övriga:** Product Owner, verksamhet och externa leverantörer
 
----
 
-# 1. Inledning
 
-## 1.1 Identifiering
-**Version:** 0.1
-
-## 1.2 Beskrivning
+## 1 Beskrivning
 
 Testplanen beskriver hur NordicShop Release 3.0 ska testas inför produktionssättning vecka 12.
 
