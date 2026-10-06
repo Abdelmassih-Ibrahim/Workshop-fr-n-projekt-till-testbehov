@@ -11,8 +11,6 @@
 # 1. Inledning
 
 ## 1.1 Identifiering
-
-**Dokument-ID:** NS-R3.0-TP-0.1
 **Version:** 0.1
 
 ## 1.2 Beskrivning
