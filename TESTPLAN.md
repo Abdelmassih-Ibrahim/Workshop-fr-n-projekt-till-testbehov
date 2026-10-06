@@ -512,7 +512,11 @@ Release bör stoppas om:
 
 ## 1. Viktigast att testa
 
-**Betalning, order, lager, integrationer och kritiska E2E-flöden.**
+- Betalningflödet -> Kritiskt för verksamhet, flöde + integration felfri
+- Ordersystem -> Skapande, avslut och tillstånd uppdateras korrekt
+- Lager -> Uppvisas korrekt och uppdateras korrekt på front-end och idatabas 
+- Integrationer mellan interna komponenter & systemet med externa tjänster
+- Samtliga kritiska E2E-flöden.
 
 ## 2. Vad har vi avgränsat?
 
