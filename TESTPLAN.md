@@ -568,9 +568,9 @@ Testningen kan avslutas när de viktigaste kvalitetsmålen är uppnådda:
 
 ## 6. Tre största risker
 
-1. Payment Provider
-2. Lagersystemet
-3. Sena kritiska defekter
+1. **Payment Provider** – Problem med betalningslösningen kan stoppa betalningar och påverka hela E2E-köpflödet.
+2. **Lagersystemet** – Felaktiga lagersaldon kan leda till att kunder kan köpa produkter som inte finns i lager och skapa problem i orderflödet.
+3. **Sena kritiska defekter** – Om Critical/High-defekter upptäcks sent finns det risk att det inte finns tillräckligt med tid för åtgärd, retest och regression innan release.
 
 ## 7. Viktigaste öppna frågor
 
