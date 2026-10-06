@@ -560,8 +560,6 @@ SIT → Systemtest → E2E → UAT → Retest → Regression → Go/No-Go
 
 ## 7. Viktigaste öppna frågor
 
-Följande behöver besvaras innan testplanen kan färdigställas:
-
 | Fråga                                                   | Varför viktig?                             |
 | ------------------------------------------------------- | ------------------------------------------ |
 | När är Payment Providers testmiljö tillgänglig?         | Påverkar betalning och E2E.                |
@@ -571,8 +569,8 @@ Följande behöver besvaras innan testplanen kan färdigställas:
 | Vilka webbläsare och mobiler ska stödjas?               | Påverkar testomfattningen.                 |
 | Vilka säkerhetskrav ska verifieras?                     | Påverkar behörighet och login.             |
 | Vilka skillnader finns mellan testmiljö och produktion? | Påverkar testresultatens tillförlitlighet. |
-* testmiljö kontra produktion
 
----
+
+-
 
 
