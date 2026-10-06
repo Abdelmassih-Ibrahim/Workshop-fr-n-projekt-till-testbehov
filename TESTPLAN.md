@@ -532,8 +532,25 @@ Release bör stoppas om:
 ## 3. Hur testar vi?
 
 **Riskbaserat:**
+Testinsatserna prioriteras utifrån sa
+**SIT**
+Riskfokus: datainkonsekvens, misslyckade API-anrop och nätvrksfel mellan system.
 
-SIT → Systemtest → E2E → UAT → Retest → Regression → Go/No-Go
+**Systemtest**
+Riskfokus: Felaktig affärslogik, systemet uppfyller inte sina funktionella och icke funktionella krav.
+
+**E2E** 
+Testar hela kedjan från start till mål.
+
+Riskfokus: Avbrott i kritiska affärsflöden t.ex en order.
+
+
+**UAT**
+Affärsnytta, användbarhet och kravuppfyllnad.
+
+Riskfokus: Felaktig tolkning av affärskrav, bristande användarvänlighet. 
+
+Retest → Regression → Go/No-Go
 
 ## 4. Viktigaste Entry/Exit
 
