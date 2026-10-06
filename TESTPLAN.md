@@ -471,11 +471,11 @@ Följande ska ske parallellt där det är möjligt:
 | ------------------------------------- | ------------------------------- | ---------------------------------- | ---------------------- | --------- |
 | Payment Provider försenas             | Betalning/E2E försenas.         | Testa övriga delar parallellt.     | Projektledning         | Kritisk   |
 | Testmiljön är instabil                | Testning blockeras.             | Miljöstabilisering och smoke test. | Utveckling             | Hög       |
-| Lagersystemet fungerar felaktigt      | Fel lager och felaktiga order.  | Testa integration tidigt.          | Testare A / Utveckling | Hög       |
-| Testdata saknas                       | Tester blockeras.               | Förbered data tidigt.              | Testare C              | Hög       |
+| Lagersystemet fungerar felaktigt      | Fel lager och felaktiga order.  | Testa integration tidigt.          | Testare  / Utveckling | Hög       |
+| Testdata saknas                       | Tester blockeras.               | Förbered data tidigt.              | Testare               | Hög       |
 | Kritiska defekter hittas sent         | Lite tid för retest/regression. | Tidig riskbaserad testning.        | Testledare             | Hög       |
 | Verksamheten inte är tillgänglig      | UAT försenas.                   | Boka verksamheten tidigt.          | Product Owner          | Hög       |
-| Delar av regressionen måste reduceras | Fel kan missas.                 | Prioritera kritiska funktioner.    | Testare D              | Medel/Hög |
+| Delar av regressionen måste reduceras | Fel kan missas.                 | Prioritera kritiska funktioner.    | Testare               | Medel/Hög |
 | Krav är otydliga                      | Felaktig testning/acceptans.    | Eskalera öppna frågor till PO.     | Testledare / PO        | Hög       |
 
 ---
