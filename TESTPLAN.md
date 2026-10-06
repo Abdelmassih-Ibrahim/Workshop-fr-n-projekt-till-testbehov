@@ -536,16 +536,19 @@ Testinsatserna prioriteras utifrån
 
 
 **SIT**
+
 Riskfokus: datainkonsekvens, misslyckade API-anrop och nätvrksfel mellan system.
 
 
 
 **Systemtest**
+
 Riskfokus: Felaktig affärslogik, systemet uppfyller inte sina funktionella och icke funktionella krav.
 
 
 **E2E** 
 Testar hela kedjan från start till mål.
+
 
 Riskfokus: Avbrott i kritiska affärsflöden t.ex en order.
 
