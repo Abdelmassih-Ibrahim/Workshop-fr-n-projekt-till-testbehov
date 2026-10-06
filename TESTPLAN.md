@@ -529,9 +529,9 @@ Release bör stoppas om:
 - **Lågriskregression**: Regressionstester av funktioner med låg affärspåverkan, samt det som sällan ändras, till exempel informationssidor.
 
 
-3. Hur testar vi?
+# 3. Hur testar vi?
 
-Riskbaserat:
+## Riskbaserat
 
 Vi fokuserar testningen på de viktigaste och mest kritiska delarna av NordicShop.
 
