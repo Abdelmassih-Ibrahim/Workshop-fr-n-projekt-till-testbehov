@@ -520,12 +520,14 @@ Release bör stoppas om:
 
 ## 2. Vad har vi avgränsat?
 
-Framför allt:
+- Full rabattkombinationstestning: Gäller samtliga kombinationer av rabattkoder, kampanjer och kundgrupper i kassan. Testas ej fullt ut eftersom antalet kombinationer är mycket stort. Fokus ligger i stället på de vanligaste och mest affärskritiska rabattflödena.
 
-* full rabattkombinationstestning
-* alla enheter/webbläsare
-* full prestandatestning
-* låg-risk-regression
+- Alla enheter och webbläsare: Gäller att verifiera webbshopen i alla kombinationer av enheter, operativsystem, webbläsare och skärmstorlekar. Testas ej fullt ut eftersom det är tidskrävande och kostsamt. Testningen avgränsas till de mest använda kombinati§onerna enligt användarstatistik.
+
+- Full prestandatestning: Gäller belastnings-, stress- och uthållighetstester av e-handelns flöden, till exempel sök och kassa under hög trafik. Testas ej eftersom det kräver en produktionslik miljö och särskilda verktyg som ligger utanför projektets tid och resurser.
+
+- Lågriskregression: Gäller regressionstester av funktioner med låg affärspåverkan och som sällan ändras, till exempel informationssidor. Testas ej eftersom risken bedöms som låg i förhållande till insatsen, och tiden prioriteras till mer kritiska områden.
+
 
 ## 3. Hur testar vi?
 
