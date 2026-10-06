@@ -624,10 +624,10 @@ Testningen kan avslutas när de viktigaste kvalitetsmålen är uppnådda:
 
 ## 5. Viktigaste resurser
 
-* A = API/integration
-* B = Systemtest/E2E/betalning
-* C = UAT/testdata
-* D = Regression/automation
+* A = API/integration: SIT, API, integrationer, teknisk retest
+* B = Systemtest/E2E/betalning: systemtest, E2E, betalning, kritiska kundflöden
+* C = Verksamhet/UAT/testdata: testdata, verksamhetstest, UAT
+* D = Regression/automation: regression, automation, behörighet
 
 ## 6. Tre största risker
 
