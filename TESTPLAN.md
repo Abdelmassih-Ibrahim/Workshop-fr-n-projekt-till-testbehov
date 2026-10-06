@@ -529,29 +529,46 @@ Release bör stoppas om:
 - **Lågriskregression**: Regressionstester av funktioner med låg affärspåverkan, samt det som sällan ändras, till exempel informationssidor.
 
 
-## 3. Hur testar vi?
+3. Hur testar vi?
 
-**Riskbaserat:**
-Testinsatserna prioriteras utifrån 
+Riskbaserat:
+
+Vi fokuserar testningen på de viktigaste och mest kritiska delarna av NordicShop.
+
+# SIT – fokuserar på integrationer mellan:
+Webb/mobil → Backend
+Backend → Order Service
+Backend → Lager
+Backend → Payment Provider
+Backend → Delivery Provider
+
+# Systemtest – testar NordicShop som helhet med fokus på:
+Login
+Kundvagn
+Checkout
+Betalning
+Order
+Lager
+Avbeställning
+Behörighet
+
+# E2E – prioriterar de viktigaste flödena:
+Mobilkund genomför köp
+Webbkund genomför köp
+Order avbeställs och eventuell återbetalning hanteras
+# Defekthantering – defekter registreras, prioriteras och följs upp. Critical/High hanteras först.
 
 
-**SIT**
-
-Riskfokus: datainkonsekvens, misslyckade API-anrop och nätvrksfel mellan system.
+# Retest – när en defekt är åtgärdad testas den igen för att verifiera fixen.
 
 
-
-**Systemtest**
-
-Riskfokus: Felaktig affärslogik, systemet uppfyller inte sina funktionella och icke funktionella krav.
-
-
-**E2E** 
-Testar hela kedjan från start till mål.
-
-
-Riskfokus: Avbrott i kritiska affärsflöden t.ex en order.
-
+# Regression – fokuserar på:
+Betalning
+Order
+Lager
+Login/behörighet
+Kritiska E2E-flöden
+Förändrad funktionalitet
 
 
 **UAT**
