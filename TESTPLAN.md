@@ -560,10 +560,17 @@ SIT → Systemtest → E2E → UAT → Retest → Regression → Go/No-Go
 
 ## 7. Viktigaste öppna frågor
 
-* Payment Provider
-* acceptanskriterier
-* testdata
-* prestandakrav
+Följande behöver besvaras innan testplanen kan färdigställas:
+
+| Fråga                                                   | Varför viktig?                             |
+| ------------------------------------------------------- | ------------------------------------------ |
+| När är Payment Providers testmiljö tillgänglig?         | Påverkar betalning och E2E.                |
+| Vilka exakta acceptanskriterier gäller för release?     | Krävs för UAT och Go/No-Go.                |
+| Vilka prestandakrav gäller?                             | Behövs för att avgöra vad som ska testas.  |
+| Vilken testdata behövs och vem ansvarar för den?        | Testerna kan annars blockeras.             |
+| Vilka webbläsare och mobiler ska stödjas?               | Påverkar testomfattningen.                 |
+| Vilka säkerhetskrav ska verifieras?                     | Påverkar behörighet och login.             |
+| Vilka skillnader finns mellan testmiljö och produktion? | Påverkar testresultatens tillförlitlighet. |
 * testmiljö kontra produktion
 
 ---
