@@ -62,7 +62,22 @@ Syftet är att säkerställa att de mest kritiska funktionerna fungerar inför r
 * Workshop – Entry/Exit Criteria
 
 ---
+# Dokument och hänvisningar
 
+Följande dokument och underlag behöver finnas eller användas i testarbetet.
+
+| Dokument / underlag                       | Beskrivning                                                                                   |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Kravspecifikation                         | Används för att förstå vilka funktioner NordicShop ska stödja.                                |
+| Acceptanskriterier                        | Används för att avgöra när en funktion kan betraktas som godkänd.                             |
+| Testanalys – Från projekt till testbehov  | Tidigare analys av testobjekt, risker, integrationer, stakeholders och kritiska affärsflöden. |
+| Teststrategi                              | Detta dokument och tillhörande dokument beskriver den övergripande strategin för testarbetet. |
+| Testplan                                  | Behöver senare beskriva mer detaljerat när och hur testningen ska genomföras.                 |
+| Testfall                                  | Detaljerade instruktioner för specifika tester.                                               |
+| Defect/Felrapporter                       | Används för att dokumentera upptäckta fel.                                                    |
+| Arkitektur/systemlandskap                 | Används för att förstå hur NordicShops olika system hänger ihop.                              |
+| API-dokumentation                         | Behövs för att förstå och testa kommunikationen mellan system.                                |
+| Dokumentation för lagersystemet           | Viktigt eftersom lagersystemet är gammalt och 
 # 2. Öppna frågor
 
 Följande behöver besvaras innan testplanen kan färdigställas:
