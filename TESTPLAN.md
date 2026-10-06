@@ -531,19 +531,27 @@ SIT → Systemtest → E2E → UAT → Retest → Regression → Go/No-Go
 
 ## 4. Viktigaste Entry/Exit
 
-**Entry:**
+### Entry – när testningen kan starta
 
-* fungerande miljö
-* testdata
-* stabil build
-* förberedda tester
+Testningen kan starta när de viktigaste förutsättningarna är uppfyllda:
 
-**Exit:**
+* **Fungerande testmiljö** – Webb, mobilapp, backend och nödvändiga integrationer ska vara tillgängliga och fungera tillräckligt stabilt för att tester ska kunna genomföras.
+* **Testdata finns tillgänglig** – Nödvändiga testkonton, produkter, lagerdata och betalningsrelaterad testdata ska vara förberedda.
+* **Stabil build är levererad** – En testbar version av systemet ska finnas och de viktigaste funktionerna ska vara tillräckligt färdiga.
+* **Förberedda tester** – Prioriterade testfall ska vara designade och redo att genomföras.
+* **Nödvändiga integrationer är tillgängliga** – Exempelvis Payment Provider, Order Service och lagersystemet ska vara åtkomliga för de tester som berör dem.
 
-* prioriterade tester klara
-* kritiska E2E godkända
-* inga Critical-defekter
-* kritisk regression klar
+### Exit – när testningen kan avslutas
+
+Testningen kan avslutas när de viktigaste kvalitetsmålen är uppnådda:
+
+* **Prioriterade tester är genomförda** – Alla MUST-tester inom exempelvis checkout, betalning, order, lager och kritiska integrationer ska vara genomförda.
+* **Kritiska E2E-flöden är godkända** – Kunden ska kunna genomföra ett köp via webb och mobil, och orderflödet ska fungera från början till slut.
+* **Inga Critical-defekter är öppna** – Det får inte finnas några kvarstående kritiska fel som påverkar viktiga affärsflöden.
+* **High-defekter är hanterade** – Kvarstående High-defekter ska vara åtgärdade eller uttryckligen riskaccepterade.
+* **Kritisk regression är genomförd** – Betalning, order, lager, login/behörighet och kritiska E2E-flöden ska ha verifierats efter ändringar.
+* **Testresultaten är rapporterade** – Testresultat, kvarstående risker och defekter ska vara dokumenterade som underlag för Go/No-Go-beslut.
+
 
 ## 5. Viktigaste resurser
 
@@ -570,7 +578,5 @@ SIT → Systemtest → E2E → UAT → Retest → Regression → Go/No-Go
 | Vilka säkerhetskrav ska verifieras?                     | Påverkar behörighet och login.             |
 | Vilka skillnader finns mellan testmiljö och produktion? | Påverkar testresultatens tillförlitlighet. |
 
-
--
 
 
