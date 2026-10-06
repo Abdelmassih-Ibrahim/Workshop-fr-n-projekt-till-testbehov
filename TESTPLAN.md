@@ -566,5 +566,4 @@ SIT → Systemtest → E2E → UAT → Retest → Regression → Go/No-Go
 
 ---
 
-**Status:** Version 0.1 – första arbetsversion.
-**Nästa steg:** Stäng öppna frågor och uppdatera testplanen inför nästa version.
+
