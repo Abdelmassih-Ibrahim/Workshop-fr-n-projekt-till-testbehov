@@ -549,17 +549,26 @@ Backend → Delivery Provider
 
 ### Systemtest – testar NordicShop som helhet med fokus på:
 Login
+
 Kundvagn
+
 Checkout
+
 Betalning
+
 Order
+
 Lager
+
 Avbeställning
+
 Behörighet
 
 ### E2E – prioriterar de viktigaste flödena:
 Mobilkund genomför köp
+
 Webbkund genomför köp
+
 Order avbeställs och eventuell återbetalning hanteras
 
 ### Defekthantering – defekter registreras, prioriteras och följs upp. Critical/High hanteras först.
@@ -570,10 +579,15 @@ Order avbeställs och eventuell återbetalning hanteras
 
 ### Regression – fokuserar på:
 Betalning
+
 Order
+
 Lager
+
 Login/behörighet
+
 Kritiska E2E-flöden
+
 Förändrad funktionalitet
 
 
