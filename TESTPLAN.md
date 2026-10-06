@@ -535,14 +535,19 @@ Riskbaserat:
 
 Vi fokuserar testningen på de viktigaste och mest kritiska delarna av NordicShop.
 
-## SIT – fokuserar på integrationer mellan:
+### SIT – fokuserar på integrationer mellan:
 Webb/mobil → Backend
+
 Backend → Order Service
+
 Backend → Lager
+
 Backend → Payment Provider
+
 Backend → Delivery Provider
 
-## Systemtest – testar NordicShop som helhet med fokus på:
+
+### Systemtest – testar NordicShop som helhet med fokus på:
 Login
 Kundvagn
 Checkout
@@ -552,18 +557,18 @@ Lager
 Avbeställning
 Behörighet
 
-## E2E – prioriterar de viktigaste flödena:
+### E2E – prioriterar de viktigaste flödena:
 Mobilkund genomför köp
 Webbkund genomför köp
 Order avbeställs och eventuell återbetalning hanteras
 
-## Defekthantering – defekter registreras, prioriteras och följs upp. Critical/High hanteras först.
+### Defekthantering – defekter registreras, prioriteras och följs upp. Critical/High hanteras först.
 
 
-## Retest – när en defekt är åtgärdad testas den igen för att verifiera fixen.
+### Retest – när en defekt är åtgärdad testas den igen för att verifiera fixen.
 
 
-## Regression – fokuserar på:
+### Regression – fokuserar på:
 Betalning
 Order
 Lager
@@ -572,12 +577,12 @@ Kritiska E2E-flöden
 Förändrad funktionalitet
 
 
-**UAT**
+### UAT
 Affärsnytta, användbarhet och kravuppfyllnad.
 
 Riskfokus: Felaktig tolkning av affärskrav, bristande användarvänlighet. 
 
-Retest → Regression → Go/No-Go
+
 
 ## 4. Viktigaste Entry/Exit
 
