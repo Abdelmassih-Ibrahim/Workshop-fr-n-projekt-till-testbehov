@@ -313,11 +313,11 @@ Testningen är klar när:
 | ------------------- | --------------------------- |
 | Testplan            | Testledare                  |
 | Testfall            | Testare                     |
-| Testdata            | Testare C                   |
+| Testdata            | Testare                   |
 | Defektrapporter     | Testare                     |
 | Teststatus          | Testledare                  |
 | Testrapport         | Testledare                  |
-| Regressionstestsvit | Testare D                   |
+| Regressionstestsvit | Testare                   |
 | Go/No-Go-underlag   | Testledare + projektledning |
 
 ---
@@ -329,13 +329,13 @@ Testningen är klar när:
 | Testanalys      | Testledare + Testare |
 | Testplanering   | Testledare           |
 | Testdesign      | Testare              |
-| Testdata        | Testare C            |
-| SIT             | Testare A            |
-| Systemtest      | Testare B            |
-| E2E             | Testare B            |
+| Testdata        | Testare             |
+| SIT             | Testare             |
+| Systemtest      | Testare             |
+| E2E             | Testare             |
 | Defekthantering | Testare + Utveckling |
-| Retest          | Testare A/B          |
-| Regression      | Testare D            |
+| Retest          | Testare          |
+| Regression      | Testare             |
 | Rapportering    | Testledare           |
 
 ---
