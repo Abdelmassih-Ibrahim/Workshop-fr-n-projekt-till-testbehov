@@ -1,4 +1,4 @@
-# NordicShop – Testplan v0.1
+# NordicShop – Testplan 
 
 **Release:** NordicShop 3.0
 **Planerad release:** Vecka 12
