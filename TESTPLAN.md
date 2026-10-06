@@ -96,8 +96,6 @@ De viktigaste testobjekten är:
 | Behörighet       | Åtkomst och säkerhet        |
 | E-post/SMS       | Orderbekräftelser           |
 
-**Version/build:** Exakta versionsnummer saknas i underlagen och är därför en öppen fråga.
-
 ---
 
 # 4. Omfattning – In Scope
@@ -123,7 +121,6 @@ De viktigaste områdena prioriteras utifrån risk.
 
 För att hinna med release fokuseras testningen på högsta risk.
 
-## Ingår inte fullt ut
 
 ### Alla rabattkombinationer
 
@@ -205,9 +202,6 @@ Regression fokuserar på:
 * kritiska E2E-flöden
 * förändrad funktionalitet
 
-## Automation
-
-Automation används främst för stabila och återkommande regressionstester.
 
 ---
 
