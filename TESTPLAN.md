@@ -591,10 +591,7 @@ Kritiska E2E-flöden
 Förändrad funktionalitet
 
 
-### UAT
-Affärsnytta, användbarhet och kravuppfyllnad.
 
-Riskfokus: Felaktig tolkning av affärskrav, bristande användarvänlighet. 
 
 
 
